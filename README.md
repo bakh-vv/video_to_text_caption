@@ -2,4 +2,4 @@
 Generating text captions for video. Trained on MSVD dataset
 
 
-![Alt Text](https://s3.gifyu.com/images/ezgif.com-gif-makerec2532ecd99f7c6a.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
