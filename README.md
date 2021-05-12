@@ -7,7 +7,7 @@ Model architecture:
 Examples:
 
 
-Based on the [Sequence to Sequence -- Video to Text (Venugopalan et al.)](https://arxiv.org/abs/1505.00487) with modifications
+Based on the [Sequence to Sequence -- Video to Text (Venugopalan et al.)](https://arxiv.org/abs/1505.00487) paper with modifications
 
 
 Data:
