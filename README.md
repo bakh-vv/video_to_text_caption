@@ -2,6 +2,9 @@
 Generating text captions based on a video. 
 
 ## Model architecture:            
+Two models are stacked on top of each other. The first model is a pre-trained EfficientNet that extracts features from every frame of the video. 1 frame per second is kept.         
+
+The second model is a sequence to sequence model that takes in the CNN features and outputs the captions. Second model architecture:              
 <img src="media/model.png"/>
 
 ## Examples:                 
